@@ -2,7 +2,7 @@
 
 <h2 align="center">Projects</h2>
 
-[Discord Bot](https://discord.com/api/oauth2/authorize?client_id=992341773382844477&permissions=3402752&scope=bot) ([Repository](https://github.com/kavyamathur/Discord-Bot.git))
+[Discord Bot](https://discord.com/api/oauth2/authorize?client_id=993075596156485692&permissions=8&scope=bot) ([Repository](https://github.com/kavyamathur/Discord-Bot.git))
 
 [Twitter Bot] ([Repository](https://github.com/kavyamathur/Twitter-Bot.git))
 
