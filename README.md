@@ -10,6 +10,6 @@
 
 [Twitter](https://twitter.com/kmath_xyz)
 
-[Discord](https://discord.gg/EbxEQCwBjk)
+[Discord](https://discord.gg/hzHH9ybPng)
 
 </div>
